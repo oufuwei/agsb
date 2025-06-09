@@ -35,7 +35,7 @@ USER_NAME = "jack"         # 用户名
 UUID = "b29f0d79-fac6-4662-8afa-ae60f22155c3"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = ""                   # 域名，留空则自动获取
-CF_TOKEN = ""                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiY2Y3ZTI3YmU5NDEyMWZlMTA3MzY5ODY2MjZmYmI0OTciLCJ0IjoiMzlmOWRkOGEtMThhNC00NGE5LWE3YTYtYmUzYjU2OTlhMWI2IiwicyI6Ik1qZzFZMk5tWWpFdFl6STRNQzAwTUdZM0xUazVZV1l0Wm1OaFlUZ3lNbUk0WkdVMyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
